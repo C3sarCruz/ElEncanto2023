@@ -20,7 +20,7 @@
 body {
     height: auto;
     color: #999;
-    background: linear-gradient(rgba(255, 255, 255, 0.302), rgba(255, 255, 255, 0.905)), url(/background.jpg) no-repeat center/cover;
+    background: linear-gradient(rgba(255, 255, 255, 0.302), rgba(255, 255, 255, 0.905)), url(./background.jpg) no-repeat center/cover;
     background-attachment: fixed;
 }
 
